@@ -23,7 +23,7 @@ Inicio
         
     precoTerreno <- (areaTerreno * valorMetroQuadrado)
         
-    escreval("Area do terreno = ", areaTerreno:2:2)
-    escreval("Preco do terreno = ", precoTerreno:2:2)
+    escreval("Area do terreno = ", areaTerreno:1:2)
+    escreval("Preco do terreno = ", precoTerreno:1:2)
       
 Fimalgoritmo
