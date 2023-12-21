@@ -2,9 +2,9 @@ Algoritmo "idades"
 
 Var
 
-nome1, nome2 : caractere
-idade1, idade2 : inteiro
-mediaIdades : real
+      nome1, nome2 : caractere
+      idade1, idade2 : inteiro
+      mediaIdades : real
 
 Inicio
 
