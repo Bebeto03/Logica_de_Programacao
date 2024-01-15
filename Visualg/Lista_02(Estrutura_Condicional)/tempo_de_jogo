@@ -1,0 +1,34 @@
+Algoritmo "tempo_de_jogo"
+
+Var
+
+   horaInicial, horaFinal : inteiro
+   duracao : inteiro
+
+Inicio
+
+      escreva("Hora inicial: ")
+      leia(horaInicial)
+
+      se (horaInicial<0) ou (horaInicial>23) entao
+         escreva("Valor inválido.")
+         Fimalgoritmo
+      fimse
+      
+      escreva("Hora final: ")
+      leia(horaFinal)
+      
+      se (horaFinal<0) ou (horaFinal>23) entao
+         escreva("Valor inválido.")
+         Fimalgoritmo
+      fimse
+      
+      se horaInicial>=horaFinal entao
+         horaFinal <- horaFinal + 24
+      fimse
+      
+      duracao <- horaFinal - horaInicial
+      
+      escreva("O JOGO DUROU ", duracao, " HORA(S)")
+
+Fimalgoritmo
