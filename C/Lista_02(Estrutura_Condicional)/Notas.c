@@ -18,4 +18,6 @@ int main () {
         printf("REPROVADO");
     }
     
+    return 0;
+    
 }

@@ -20,4 +20,6 @@ int main () {
     printf("Area do terreno = %.2lf\n", areaTerreno);
     printf("Preco do terreno = %.2lf", precoTerreno);
 
+    return 0;
+
 }

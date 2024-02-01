@@ -29,4 +29,6 @@ int main () {
 
     printf("O pagamento para %s deve ser de %.2lf", nome, pagamento);
 
+    return 0;
+
 }

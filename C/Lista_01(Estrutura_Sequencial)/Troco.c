@@ -21,4 +21,6 @@ int main () {
 
     printf("TROCO = %.2lf", troco);
 
+    return 0;
+
 }

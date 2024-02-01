@@ -21,4 +21,6 @@ int main () {
     printf("PERIMETRO = %.4lf\n", perimetro);
     printf("DIAGONAL = %.4lf", diagonal);
 
+    return 0;
+
 }

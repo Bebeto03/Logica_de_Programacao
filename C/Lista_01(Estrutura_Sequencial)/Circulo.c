@@ -12,4 +12,6 @@ int main () {
 
     printf("AREA = %.3lf", area);
 
+    return 0;
+    
 }

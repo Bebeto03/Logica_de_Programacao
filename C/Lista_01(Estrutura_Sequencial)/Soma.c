@@ -14,4 +14,6 @@ int main () {
 
     printf("SOMA = %d", soma);
 
+    return 0;
+
 }

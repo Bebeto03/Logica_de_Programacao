@@ -16,4 +16,6 @@ int main () {
 
     printf("Consumo medio = %.3lf", consumoMedio);
 
+    return 0;
+    
 }

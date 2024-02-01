@@ -13,4 +13,6 @@ int main () {
 
     printf("%d:%d:%d", horas, minutos, segundos);
     
+    return 0;
+    
 }

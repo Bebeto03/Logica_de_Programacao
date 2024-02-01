@@ -22,4 +22,6 @@ int main () {
     printf("AREA DO TRIANGULO = %.4lf\n", triangulo);
     printf("AREA DO TRAPEZIO = %.4lf", trapezio);
 
+    return 0;
+
 }
