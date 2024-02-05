@@ -27,4 +27,6 @@ int main () {
 
     printf("\n\nQUANTIDADE DE PARES = %d", cont);
 
+    return 0;
+
 }
