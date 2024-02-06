@@ -19,13 +19,21 @@ int main() {
     int vet[n];
 
     for(int i=0;i<n;i++){
+        
         int maior = mat[i][0];
+        
         for(int j=0;j<n;j++){
+            
             if(mat[i][j]>maior){
+                
                 maior = mat[i][j];
+
             }
+        
         }
+        
         vet[i] = maior;
+        
     }
 
     printf("MAIOR ELEMENTO DE CADA LINHA:\n");
