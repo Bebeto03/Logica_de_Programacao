@@ -8,7 +8,7 @@ public class Circulo {
 		Locale.setDefault(Locale.US);
 		Scanner s = new Scanner(System.in);
 		
-		System.out.print("Dgigte o valor do raio do circulo: ");
+		System.out.print("Digite o valor do raio do circulo: ");
 		double raio = s.nextDouble();
 		
 		double area = Math.pow(raio, 2) * Math.PI;
