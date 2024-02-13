@@ -28,8 +28,12 @@ public class Media_Pares {
 
         double media = (double) soma / cont;
 
-        Locale.setDefault(Locale.US);
-        System.out.printf("MEDIA DOS PARES = %.1f", media);
+        if (cont > 0) {
+            Locale.setDefault(Locale.US);
+            System.out.printf("MEDIA DOS PARES = %.1f", media);
+        } else {
+            System.out.println("NENHUM NUMERO PAR");
+        }
 
         s.close();
 
