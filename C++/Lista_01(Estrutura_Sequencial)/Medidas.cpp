@@ -1,0 +1,33 @@
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+int main(){
+
+    double a, b, c;
+    double areaQuadrado, areaTriangulo, areaTrapezio;
+
+    cout << "Digite a medida A: ";
+    cin >> a;
+
+    cout << "Digite a medida B: ";
+    cin >> b;
+
+    cout << "Digite a medida C: ";
+    cin >> c;
+
+    areaQuadrado = a*a;
+
+    areaTriangulo = a*b/2;
+
+    areaTrapezio = (a+b)*c/2;
+
+    cout << fixed << setprecision(4);
+    cout << "AREA DO QUADRADO = " << areaQuadrado << endl;
+    cout << "AREA DO TRIANGULO = " << areaTriangulo << endl;
+    cout << "AREA DO TRAPEZIO = " << areaTrapezio;
+
+    return 0;
+
+}
