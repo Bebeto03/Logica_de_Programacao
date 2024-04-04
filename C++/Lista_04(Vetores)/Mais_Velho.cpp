@@ -1,4 +1,5 @@
 #include <iostream>
+#include <climits>
 
 using namespace std;
 
@@ -15,7 +16,8 @@ int main(){
     for(int i=0;i<n;i++){
         cout << "Dados da " << (i+1) << "a pessoa:" << endl;
         cout << "Nome: ";
-        cin >> nome[i];
+        cin.ignore(INT_MAX, '\n');
+        getline(cin, nome[i]);
         cout << "Idade: ";
         cin >> idade[i];
     }
