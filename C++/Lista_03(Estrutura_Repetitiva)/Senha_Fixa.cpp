@@ -4,12 +4,12 @@ using namespace std;
 
 int main(){
 
-    string senha;
+    int senha;
 
     cout << "Digite a senha: ";
     cin >> senha;
 
-    while(senha!="2002"){
+    while(senha!=2002){
         cout << "Senha invalida! Tente novamente: ";
         cin >> senha;
     }
