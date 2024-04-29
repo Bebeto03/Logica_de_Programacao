@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\bin\Debug\net8.0\olaMundo.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\bin\Debug\net8.0\olaMundo.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\bin\Debug\net8.0\olaMundo.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\bin\Debug\net8.0\olaMundo.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\bin\Debug\net8.0\olaMundo.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\obj\Debug\net8.0\olaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\obj\Debug\net8.0\olaMundo.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\obj\Debug\net8.0\olaMundo.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\obj\Debug\net8.0\olaMundo.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\obj\Debug\net8.0\olaMundo.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\obj\Debug\net8.0\olaMundo.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\obj\Debug\net8.0\refint\olaMundo.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\obj\Debug\net8.0\olaMundo.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\obj\Debug\net8.0\olaMundo.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\olaMundo\obj\Debug\net8.0\ref\olaMundo.dll
