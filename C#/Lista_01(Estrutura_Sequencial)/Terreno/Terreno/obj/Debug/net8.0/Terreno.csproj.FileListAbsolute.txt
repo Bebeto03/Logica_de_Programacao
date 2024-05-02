@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\bin\Debug\net8.0\Terreno.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\bin\Debug\net8.0\Terreno.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\bin\Debug\net8.0\Terreno.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\bin\Debug\net8.0\Terreno.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\bin\Debug\net8.0\Terreno.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\obj\Debug\net8.0\Terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\obj\Debug\net8.0\Terreno.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\obj\Debug\net8.0\Terreno.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\obj\Debug\net8.0\Terreno.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\obj\Debug\net8.0\Terreno.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\obj\Debug\net8.0\Terreno.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\obj\Debug\net8.0\refint\Terreno.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\obj\Debug\net8.0\Terreno.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\obj\Debug\net8.0\Terreno.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Terreno\Terreno\obj\Debug\net8.0\ref\Terreno.dll
