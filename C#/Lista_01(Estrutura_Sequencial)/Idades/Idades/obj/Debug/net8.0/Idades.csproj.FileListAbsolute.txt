@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\bin\Debug\net8.0\Idades.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\bin\Debug\net8.0\Idades.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\bin\Debug\net8.0\Idades.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\bin\Debug\net8.0\Idades.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\bin\Debug\net8.0\Idades.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\obj\Debug\net8.0\Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\obj\Debug\net8.0\Idades.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\obj\Debug\net8.0\Idades.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\obj\Debug\net8.0\Idades.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\obj\Debug\net8.0\Idades.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\obj\Debug\net8.0\Idades.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\obj\Debug\net8.0\refint\Idades.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\obj\Debug\net8.0\Idades.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\obj\Debug\net8.0\Idades.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Idades\Idades\obj\Debug\net8.0\ref\Idades.dll
