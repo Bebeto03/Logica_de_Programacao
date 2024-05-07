@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\bin\Debug\net8.0\Troco.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\bin\Debug\net8.0\Troco.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\bin\Debug\net8.0\Troco.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\bin\Debug\net8.0\Troco.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\bin\Debug\net8.0\Troco.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\obj\Debug\net8.0\Troco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\obj\Debug\net8.0\Troco.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\obj\Debug\net8.0\Troco.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\obj\Debug\net8.0\Troco.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\obj\Debug\net8.0\Troco.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\obj\Debug\net8.0\Troco.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\obj\Debug\net8.0\refint\Troco.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\obj\Debug\net8.0\Troco.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\obj\Debug\net8.0\Troco.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Troco\Troco\obj\Debug\net8.0\ref\Troco.dll
