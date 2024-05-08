@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\bin\Debug\net8.0\Pagamento.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\bin\Debug\net8.0\Pagamento.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\bin\Debug\net8.0\Pagamento.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\bin\Debug\net8.0\Pagamento.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\bin\Debug\net8.0\Pagamento.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\obj\Debug\net8.0\Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\obj\Debug\net8.0\Pagamento.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\obj\Debug\net8.0\Pagamento.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\obj\Debug\net8.0\Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\obj\Debug\net8.0\Pagamento.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\obj\Debug\net8.0\Pagamento.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\obj\Debug\net8.0\refint\Pagamento.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\obj\Debug\net8.0\Pagamento.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\obj\Debug\net8.0\Pagamento.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Pagamento\Pagamento\obj\Debug\net8.0\ref\Pagamento.dll
