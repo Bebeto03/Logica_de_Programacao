@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\bin\Debug\net8.0\Medidas.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\bin\Debug\net8.0\Medidas.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\bin\Debug\net8.0\Medidas.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\bin\Debug\net8.0\Medidas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\bin\Debug\net8.0\Medidas.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\obj\Debug\net8.0\Medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\obj\Debug\net8.0\Medidas.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\obj\Debug\net8.0\Medidas.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\obj\Debug\net8.0\Medidas.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\obj\Debug\net8.0\Medidas.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\obj\Debug\net8.0\Medidas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\obj\Debug\net8.0\refint\Medidas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\obj\Debug\net8.0\Medidas.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\obj\Debug\net8.0\Medidas.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_01(Estrutura_Sequencial)\Medidas\Medidas\obj\Debug\net8.0\ref\Medidas.dll
