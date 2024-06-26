@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\bin\Debug\net8.0\Menor_De_Tres.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\bin\Debug\net8.0\Menor_De_Tres.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\bin\Debug\net8.0\Menor_De_Tres.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\bin\Debug\net8.0\Menor_De_Tres.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\bin\Debug\net8.0\Menor_De_Tres.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\obj\Debug\net8.0\Menor_De_Tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\obj\Debug\net8.0\Menor_De_Tres.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\obj\Debug\net8.0\Menor_De_Tres.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\obj\Debug\net8.0\Menor_De_Tres.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\obj\Debug\net8.0\Menor_De_Tres.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\obj\Debug\net8.0\Menor_De_Tres.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\obj\Debug\net8.0\refint\Menor_De_Tres.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\obj\Debug\net8.0\Menor_De_Tres.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\obj\Debug\net8.0\Menor_De_Tres.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Menor_De_Tres\Menor_De_Tres\obj\Debug\net8.0\ref\Menor_De_Tres.dll
