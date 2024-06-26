@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\bin\Debug\net8.0\Baskara.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\bin\Debug\net8.0\Baskara.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\bin\Debug\net8.0\Baskara.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\bin\Debug\net8.0\Baskara.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\bin\Debug\net8.0\Baskara.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\obj\Debug\net8.0\Baskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\obj\Debug\net8.0\Baskara.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\obj\Debug\net8.0\Baskara.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\obj\Debug\net8.0\Baskara.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\obj\Debug\net8.0\Baskara.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\obj\Debug\net8.0\Baskara.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\obj\Debug\net8.0\refint\Baskara.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\obj\Debug\net8.0\Baskara.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\obj\Debug\net8.0\Baskara.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Baskara\Baskara\obj\Debug\net8.0\ref\Baskara.dll
