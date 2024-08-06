@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\bin\Debug\net8.0\Troco_Verificado.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\bin\Debug\net8.0\Troco_Verificado.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\bin\Debug\net8.0\Troco_Verificado.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\bin\Debug\net8.0\Troco_Verificado.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\bin\Debug\net8.0\Troco_Verificado.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\obj\Debug\net8.0\Troco_Verificado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\obj\Debug\net8.0\Troco_Verificado.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\obj\Debug\net8.0\Troco_Verificado.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\obj\Debug\net8.0\Troco_Verificado.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\obj\Debug\net8.0\Troco_Verificado.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\obj\Debug\net8.0\Troco_Verificado.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\obj\Debug\net8.0\refint\Troco_Verificado.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\obj\Debug\net8.0\Troco_Verificado.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\obj\Debug\net8.0\Troco_Verificado.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Troco_Verificado\Troco_Verificado\obj\Debug\net8.0\ref\Troco_Verificado.dll
