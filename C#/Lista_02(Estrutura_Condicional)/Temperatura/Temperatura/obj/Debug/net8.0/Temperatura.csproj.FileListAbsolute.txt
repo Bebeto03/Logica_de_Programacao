@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\bin\Debug\net8.0\Temperatura.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\bin\Debug\net8.0\Temperatura.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\bin\Debug\net8.0\Temperatura.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\bin\Debug\net8.0\Temperatura.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\bin\Debug\net8.0\Temperatura.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\obj\Debug\net8.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\obj\Debug\net8.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\obj\Debug\net8.0\Temperatura.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\obj\Debug\net8.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\obj\Debug\net8.0\Temperatura.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\obj\Debug\net8.0\Temperatura.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\obj\Debug\net8.0\refint\Temperatura.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\obj\Debug\net8.0\Temperatura.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\obj\Debug\net8.0\Temperatura.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Temperatura\Temperatura\obj\Debug\net8.0\ref\Temperatura.dll
