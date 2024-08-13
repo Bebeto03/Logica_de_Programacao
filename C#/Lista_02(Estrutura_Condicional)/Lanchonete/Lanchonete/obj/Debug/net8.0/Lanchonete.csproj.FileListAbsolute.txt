@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\bin\Debug\net8.0\Lanchonete.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\bin\Debug\net8.0\Lanchonete.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\bin\Debug\net8.0\Lanchonete.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\bin\Debug\net8.0\Lanchonete.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\bin\Debug\net8.0\Lanchonete.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\obj\Debug\net8.0\Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\obj\Debug\net8.0\Lanchonete.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\obj\Debug\net8.0\Lanchonete.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\obj\Debug\net8.0\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\obj\Debug\net8.0\Lanchonete.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\obj\Debug\net8.0\Lanchonete.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\obj\Debug\net8.0\refint\Lanchonete.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\obj\Debug\net8.0\Lanchonete.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\obj\Debug\net8.0\Lanchonete.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Lanchonete\Lanchonete\obj\Debug\net8.0\ref\Lanchonete.dll
