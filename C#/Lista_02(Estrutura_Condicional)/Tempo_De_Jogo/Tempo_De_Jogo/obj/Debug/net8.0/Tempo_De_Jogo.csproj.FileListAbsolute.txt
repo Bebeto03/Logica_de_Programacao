@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\bin\Debug\net8.0\Tempo_De_Jogo.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\bin\Debug\net8.0\Tempo_De_Jogo.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\bin\Debug\net8.0\Tempo_De_Jogo.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\bin\Debug\net8.0\Tempo_De_Jogo.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\bin\Debug\net8.0\Tempo_De_Jogo.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\obj\Debug\net8.0\Tempo_De_Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\obj\Debug\net8.0\Tempo_De_Jogo.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\obj\Debug\net8.0\Tempo_De_Jogo.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\obj\Debug\net8.0\Tempo_De_Jogo.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\obj\Debug\net8.0\Tempo_De_Jogo.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\obj\Debug\net8.0\Tempo_De_Jogo.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\obj\Debug\net8.0\refint\Tempo_De_Jogo.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\obj\Debug\net8.0\Tempo_De_Jogo.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\obj\Debug\net8.0\Tempo_De_Jogo.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_02(Estrutura_Condicional)\Tempo_De_Jogo\Tempo_De_Jogo\obj\Debug\net8.0\ref\Tempo_De_Jogo.dll
