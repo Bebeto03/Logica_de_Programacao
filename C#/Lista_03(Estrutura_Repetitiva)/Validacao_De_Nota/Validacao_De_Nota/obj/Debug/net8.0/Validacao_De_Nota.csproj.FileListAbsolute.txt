@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\bin\Debug\net8.0\Validacao_De_Nota.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\bin\Debug\net8.0\Validacao_De_Nota.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\bin\Debug\net8.0\Validacao_De_Nota.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\bin\Debug\net8.0\Validacao_De_Nota.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\bin\Debug\net8.0\Validacao_De_Nota.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\obj\Debug\net8.0\Validacao_De_Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\obj\Debug\net8.0\Validacao_De_Nota.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\obj\Debug\net8.0\Validacao_De_Nota.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\obj\Debug\net8.0\Validacao_De_Nota.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\obj\Debug\net8.0\Validacao_De_Nota.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\obj\Debug\net8.0\Validacao_De_Nota.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\obj\Debug\net8.0\refint\Validacao_De_Nota.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\obj\Debug\net8.0\Validacao_De_Nota.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\obj\Debug\net8.0\Validacao_De_Nota.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Validacao_De_Nota\Validacao_De_Nota\obj\Debug\net8.0\ref\Validacao_De_Nota.dll
