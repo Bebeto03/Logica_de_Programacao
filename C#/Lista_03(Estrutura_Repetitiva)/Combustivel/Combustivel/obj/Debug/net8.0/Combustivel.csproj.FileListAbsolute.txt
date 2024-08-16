@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\bin\Debug\net8.0\Combustivel.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\bin\Debug\net8.0\Combustivel.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\bin\Debug\net8.0\Combustivel.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\bin\Debug\net8.0\Combustivel.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\bin\Debug\net8.0\Combustivel.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\obj\Debug\net8.0\Combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\obj\Debug\net8.0\Combustivel.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\obj\Debug\net8.0\Combustivel.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\obj\Debug\net8.0\Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\obj\Debug\net8.0\Combustivel.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\obj\Debug\net8.0\Combustivel.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\obj\Debug\net8.0\refint\Combustivel.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\obj\Debug\net8.0\Combustivel.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\obj\Debug\net8.0\Combustivel.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Combustivel\Combustivel\obj\Debug\net8.0\ref\Combustivel.dll
