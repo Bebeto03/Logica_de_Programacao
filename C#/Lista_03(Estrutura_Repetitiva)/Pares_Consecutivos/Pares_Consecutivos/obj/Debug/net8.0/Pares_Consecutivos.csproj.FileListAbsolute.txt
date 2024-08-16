@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\bin\Debug\net8.0\Pares_Consecutivos.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\bin\Debug\net8.0\Pares_Consecutivos.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\bin\Debug\net8.0\Pares_Consecutivos.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\bin\Debug\net8.0\Pares_Consecutivos.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\bin\Debug\net8.0\Pares_Consecutivos.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\obj\Debug\net8.0\Pares_Consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\obj\Debug\net8.0\Pares_Consecutivos.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\obj\Debug\net8.0\Pares_Consecutivos.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\obj\Debug\net8.0\Pares_Consecutivos.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\obj\Debug\net8.0\Pares_Consecutivos.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\obj\Debug\net8.0\Pares_Consecutivos.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\obj\Debug\net8.0\refint\Pares_Consecutivos.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\obj\Debug\net8.0\Pares_Consecutivos.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\obj\Debug\net8.0\Pares_Consecutivos.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Pares_Consecutivos\Pares_Consecutivos\obj\Debug\net8.0\ref\Pares_Consecutivos.dll
