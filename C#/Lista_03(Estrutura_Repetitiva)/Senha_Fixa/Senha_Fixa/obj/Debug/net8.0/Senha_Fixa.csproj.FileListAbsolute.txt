@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\bin\Debug\net8.0\Senha_Fixa.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\bin\Debug\net8.0\Senha_Fixa.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\bin\Debug\net8.0\Senha_Fixa.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\bin\Debug\net8.0\Senha_Fixa.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\bin\Debug\net8.0\Senha_Fixa.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\obj\Debug\net8.0\Senha_Fixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\obj\Debug\net8.0\Senha_Fixa.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\obj\Debug\net8.0\Senha_Fixa.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\obj\Debug\net8.0\Senha_Fixa.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\obj\Debug\net8.0\Senha_Fixa.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\obj\Debug\net8.0\Senha_Fixa.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\obj\Debug\net8.0\refint\Senha_Fixa.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\obj\Debug\net8.0\Senha_Fixa.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\obj\Debug\net8.0\Senha_Fixa.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Senha_Fixa\Senha_Fixa\obj\Debug\net8.0\ref\Senha_Fixa.dll
