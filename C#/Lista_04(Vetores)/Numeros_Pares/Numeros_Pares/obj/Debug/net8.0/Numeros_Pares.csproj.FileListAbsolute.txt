@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\bin\Debug\net8.0\Numeros_Pares.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\bin\Debug\net8.0\Numeros_Pares.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\bin\Debug\net8.0\Numeros_Pares.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\bin\Debug\net8.0\Numeros_Pares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\bin\Debug\net8.0\Numeros_Pares.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\obj\Debug\net8.0\Numeros_Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\obj\Debug\net8.0\Numeros_Pares.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\obj\Debug\net8.0\Numeros_Pares.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\obj\Debug\net8.0\Numeros_Pares.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\obj\Debug\net8.0\Numeros_Pares.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\obj\Debug\net8.0\Numeros_Pares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\obj\Debug\net8.0\refint\Numeros_Pares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\obj\Debug\net8.0\Numeros_Pares.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\obj\Debug\net8.0\Numeros_Pares.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Numeros_Pares\Numeros_Pares\obj\Debug\net8.0\ref\Numeros_Pares.dll
