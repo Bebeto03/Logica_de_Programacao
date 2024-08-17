@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\bin\Debug\net8.0\Soma_Impares.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\bin\Debug\net8.0\Soma_Impares.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\bin\Debug\net8.0\Soma_Impares.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\bin\Debug\net8.0\Soma_Impares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\bin\Debug\net8.0\Soma_Impares.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\obj\Debug\net8.0\Soma_Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\obj\Debug\net8.0\Soma_Impares.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\obj\Debug\net8.0\Soma_Impares.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\obj\Debug\net8.0\Soma_Impares.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\obj\Debug\net8.0\Soma_Impares.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\obj\Debug\net8.0\Soma_Impares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\obj\Debug\net8.0\refint\Soma_Impares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\obj\Debug\net8.0\Soma_Impares.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\obj\Debug\net8.0\Soma_Impares.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Soma_Impares\Soma_Impares\obj\Debug\net8.0\ref\Soma_Impares.dll
