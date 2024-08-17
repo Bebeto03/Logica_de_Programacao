@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\bin\Debug\net8.0\Dentro_Fora.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\bin\Debug\net8.0\Dentro_Fora.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\bin\Debug\net8.0\Dentro_Fora.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\bin\Debug\net8.0\Dentro_Fora.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\bin\Debug\net8.0\Dentro_Fora.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\obj\Debug\net8.0\Dentro_Fora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\obj\Debug\net8.0\Dentro_Fora.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\obj\Debug\net8.0\Dentro_Fora.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\obj\Debug\net8.0\Dentro_Fora.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\obj\Debug\net8.0\Dentro_Fora.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\obj\Debug\net8.0\Dentro_Fora.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\obj\Debug\net8.0\refint\Dentro_Fora.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\obj\Debug\net8.0\Dentro_Fora.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\obj\Debug\net8.0\Dentro_Fora.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Dentro_Fora\Dentro_Fora\obj\Debug\net8.0\ref\Dentro_Fora.dll
