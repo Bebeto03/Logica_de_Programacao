@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\bin\Debug\net8.0\Soma_Vetor.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\bin\Debug\net8.0\Soma_Vetor.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\bin\Debug\net8.0\Soma_Vetor.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\bin\Debug\net8.0\Soma_Vetor.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\bin\Debug\net8.0\Soma_Vetor.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\obj\Debug\net8.0\Soma_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\obj\Debug\net8.0\Soma_Vetor.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\obj\Debug\net8.0\Soma_Vetor.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\obj\Debug\net8.0\Soma_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\obj\Debug\net8.0\Soma_Vetor.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\obj\Debug\net8.0\Soma_Vetor.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\obj\Debug\net8.0\refint\Soma_Vetor.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\obj\Debug\net8.0\Soma_Vetor.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\obj\Debug\net8.0\Soma_Vetor.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Soma_Vetor\Soma_Vetor\obj\Debug\net8.0\ref\Soma_Vetor.dll
