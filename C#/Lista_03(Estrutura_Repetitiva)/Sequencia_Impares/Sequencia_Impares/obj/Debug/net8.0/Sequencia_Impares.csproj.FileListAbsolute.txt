@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\bin\Debug\net8.0\Sequencia_Impares.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\bin\Debug\net8.0\Sequencia_Impares.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\bin\Debug\net8.0\Sequencia_Impares.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\bin\Debug\net8.0\Sequencia_Impares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\bin\Debug\net8.0\Sequencia_Impares.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\obj\Debug\net8.0\Sequencia_Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\obj\Debug\net8.0\Sequencia_Impares.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\obj\Debug\net8.0\Sequencia_Impares.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\obj\Debug\net8.0\Sequencia_Impares.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\obj\Debug\net8.0\Sequencia_Impares.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\obj\Debug\net8.0\Sequencia_Impares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\obj\Debug\net8.0\refint\Sequencia_Impares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\obj\Debug\net8.0\Sequencia_Impares.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\obj\Debug\net8.0\Sequencia_Impares.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Sequencia_Impares\Sequencia_Impares\obj\Debug\net8.0\ref\Sequencia_Impares.dll
