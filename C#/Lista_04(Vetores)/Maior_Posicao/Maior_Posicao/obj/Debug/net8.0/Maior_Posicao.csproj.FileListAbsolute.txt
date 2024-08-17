@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\bin\Debug\net8.0\Maior_Posicao.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\bin\Debug\net8.0\Maior_Posicao.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\bin\Debug\net8.0\Maior_Posicao.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\bin\Debug\net8.0\Maior_Posicao.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\bin\Debug\net8.0\Maior_Posicao.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\obj\Debug\net8.0\Maior_Posicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\obj\Debug\net8.0\Maior_Posicao.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\obj\Debug\net8.0\Maior_Posicao.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\obj\Debug\net8.0\Maior_Posicao.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\obj\Debug\net8.0\Maior_Posicao.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\obj\Debug\net8.0\Maior_Posicao.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\obj\Debug\net8.0\refint\Maior_Posicao.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\obj\Debug\net8.0\Maior_Posicao.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\obj\Debug\net8.0\Maior_Posicao.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Maior_Posicao\Maior_Posicao\obj\Debug\net8.0\ref\Maior_Posicao.dll
