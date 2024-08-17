@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\bin\Debug\net8.0\Media_Ponderada.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\bin\Debug\net8.0\Media_Ponderada.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\bin\Debug\net8.0\Media_Ponderada.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\bin\Debug\net8.0\Media_Ponderada.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\bin\Debug\net8.0\Media_Ponderada.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\obj\Debug\net8.0\Media_Ponderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\obj\Debug\net8.0\Media_Ponderada.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\obj\Debug\net8.0\Media_Ponderada.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\obj\Debug\net8.0\Media_Ponderada.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\obj\Debug\net8.0\Media_Ponderada.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\obj\Debug\net8.0\Media_Ponderada.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\obj\Debug\net8.0\refint\Media_Ponderada.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\obj\Debug\net8.0\Media_Ponderada.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\obj\Debug\net8.0\Media_Ponderada.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Media_Ponderada\Media_Ponderada\obj\Debug\net8.0\ref\Media_Ponderada.dll
