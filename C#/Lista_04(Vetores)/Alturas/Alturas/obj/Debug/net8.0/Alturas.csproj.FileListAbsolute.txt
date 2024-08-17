@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\bin\Debug\net8.0\Alturas.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\bin\Debug\net8.0\Alturas.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\bin\Debug\net8.0\Alturas.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\bin\Debug\net8.0\Alturas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\bin\Debug\net8.0\Alturas.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\obj\Debug\net8.0\Alturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\obj\Debug\net8.0\Alturas.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\obj\Debug\net8.0\Alturas.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\obj\Debug\net8.0\Alturas.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\obj\Debug\net8.0\Alturas.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\obj\Debug\net8.0\Alturas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\obj\Debug\net8.0\refint\Alturas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\obj\Debug\net8.0\Alturas.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\obj\Debug\net8.0\Alturas.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Alturas\Alturas\obj\Debug\net8.0\ref\Alturas.dll
