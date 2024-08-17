@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\obj\Debug\net8.0\refint\Tabuada.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_03(Estrutura_Repetitiva)\Tabuada\Tabuada\obj\Debug\net8.0\ref\Tabuada.dll
