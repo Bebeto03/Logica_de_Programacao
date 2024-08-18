@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abaixo_Da_Media", "Abaixo_Da_Media\Abaixo_Da_Media.csproj", "{55BDED42-8A73-4250-8D36-2CA1E66C6D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55BDED42-8A73-4250-8D36-2CA1E66C6D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BDED42-8A73-4250-8D36-2CA1E66C6D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BDED42-8A73-4250-8D36-2CA1E66C6D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BDED42-8A73-4250-8D36-2CA1E66C6D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

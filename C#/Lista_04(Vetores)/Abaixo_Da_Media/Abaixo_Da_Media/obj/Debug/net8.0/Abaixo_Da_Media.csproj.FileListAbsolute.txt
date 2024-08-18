@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\bin\Debug\net8.0\Abaixo_Da_Media.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\bin\Debug\net8.0\Abaixo_Da_Media.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\bin\Debug\net8.0\Abaixo_Da_Media.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\bin\Debug\net8.0\Abaixo_Da_Media.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\bin\Debug\net8.0\Abaixo_Da_Media.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\obj\Debug\net8.0\Abaixo_Da_Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\obj\Debug\net8.0\Abaixo_Da_Media.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\obj\Debug\net8.0\Abaixo_Da_Media.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\obj\Debug\net8.0\Abaixo_Da_Media.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\obj\Debug\net8.0\Abaixo_Da_Media.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\obj\Debug\net8.0\Abaixo_Da_Media.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\obj\Debug\net8.0\refint\Abaixo_Da_Media.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\obj\Debug\net8.0\Abaixo_Da_Media.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\obj\Debug\net8.0\Abaixo_Da_Media.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Abaixo_Da_Media\Abaixo_Da_Media\obj\Debug\net8.0\ref\Abaixo_Da_Media.dll
