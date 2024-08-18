@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\bin\Debug\net8.0\Media_Pares.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\bin\Debug\net8.0\Media_Pares.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\bin\Debug\net8.0\Media_Pares.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\bin\Debug\net8.0\Media_Pares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\bin\Debug\net8.0\Media_Pares.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\obj\Debug\net8.0\Media_Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\obj\Debug\net8.0\Media_Pares.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\obj\Debug\net8.0\Media_Pares.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\obj\Debug\net8.0\Media_Pares.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\obj\Debug\net8.0\Media_Pares.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\obj\Debug\net8.0\Media_Pares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\obj\Debug\net8.0\refint\Media_Pares.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\obj\Debug\net8.0\Media_Pares.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\obj\Debug\net8.0\Media_Pares.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Media_Pares\Media_Pares\obj\Debug\net8.0\ref\Media_Pares.dll
