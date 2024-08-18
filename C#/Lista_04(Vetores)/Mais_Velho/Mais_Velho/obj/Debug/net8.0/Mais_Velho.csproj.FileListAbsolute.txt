@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\bin\Debug\net8.0\Mais_Velho.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\bin\Debug\net8.0\Mais_Velho.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\bin\Debug\net8.0\Mais_Velho.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\bin\Debug\net8.0\Mais_Velho.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\bin\Debug\net8.0\Mais_Velho.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\obj\Debug\net8.0\Mais_Velho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\obj\Debug\net8.0\Mais_Velho.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\obj\Debug\net8.0\Mais_Velho.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\obj\Debug\net8.0\Mais_Velho.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\obj\Debug\net8.0\Mais_Velho.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\obj\Debug\net8.0\Mais_Velho.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\obj\Debug\net8.0\refint\Mais_Velho.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\obj\Debug\net8.0\Mais_Velho.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\obj\Debug\net8.0\Mais_Velho.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Mais_Velho\Mais_Velho\obj\Debug\net8.0\ref\Mais_Velho.dll
