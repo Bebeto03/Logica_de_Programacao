@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\bin\Debug\net8.0\Acima_Diagonal.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\bin\Debug\net8.0\Acima_Diagonal.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\bin\Debug\net8.0\Acima_Diagonal.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\bin\Debug\net8.0\Acima_Diagonal.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\bin\Debug\net8.0\Acima_Diagonal.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\obj\Debug\net8.0\Acima_Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\obj\Debug\net8.0\Acima_Diagonal.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\obj\Debug\net8.0\Acima_Diagonal.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\obj\Debug\net8.0\Acima_Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\obj\Debug\net8.0\Acima_Diagonal.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\obj\Debug\net8.0\Acima_Diagonal.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\obj\Debug\net8.0\refint\Acima_Diagonal.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\obj\Debug\net8.0\Acima_Diagonal.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\obj\Debug\net8.0\Acima_Diagonal.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Acima_Diagonal\Acima_Diagonal\obj\Debug\net8.0\ref\Acima_Diagonal.dll
