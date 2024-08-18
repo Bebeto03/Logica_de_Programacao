@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\bin\Debug\net8.0\Matriz_Geral.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\bin\Debug\net8.0\Matriz_Geral.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\bin\Debug\net8.0\Matriz_Geral.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\bin\Debug\net8.0\Matriz_Geral.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\bin\Debug\net8.0\Matriz_Geral.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\obj\Debug\net8.0\Matriz_Geral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\obj\Debug\net8.0\Matriz_Geral.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\obj\Debug\net8.0\Matriz_Geral.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\obj\Debug\net8.0\Matriz_Geral.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\obj\Debug\net8.0\Matriz_Geral.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\obj\Debug\net8.0\Matriz_Geral.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\obj\Debug\net8.0\refint\Matriz_Geral.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\obj\Debug\net8.0\Matriz_Geral.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\obj\Debug\net8.0\Matriz_Geral.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Matriz_Geral\Matriz_Geral\obj\Debug\net8.0\ref\Matriz_Geral.dll
