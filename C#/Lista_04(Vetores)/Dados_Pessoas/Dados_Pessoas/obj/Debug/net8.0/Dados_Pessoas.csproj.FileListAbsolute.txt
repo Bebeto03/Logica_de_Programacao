@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\bin\Debug\net8.0\Dados_Pessoas.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\bin\Debug\net8.0\Dados_Pessoas.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\bin\Debug\net8.0\Dados_Pessoas.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\bin\Debug\net8.0\Dados_Pessoas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\bin\Debug\net8.0\Dados_Pessoas.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\obj\Debug\net8.0\Dados_Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\obj\Debug\net8.0\Dados_Pessoas.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\obj\Debug\net8.0\Dados_Pessoas.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\obj\Debug\net8.0\Dados_Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\obj\Debug\net8.0\Dados_Pessoas.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\obj\Debug\net8.0\Dados_Pessoas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\obj\Debug\net8.0\refint\Dados_Pessoas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\obj\Debug\net8.0\Dados_Pessoas.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\obj\Debug\net8.0\Dados_Pessoas.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_04(Vetores)\Dados_Pessoas\Dados_Pessoas\obj\Debug\net8.0\ref\Dados_Pessoas.dll
