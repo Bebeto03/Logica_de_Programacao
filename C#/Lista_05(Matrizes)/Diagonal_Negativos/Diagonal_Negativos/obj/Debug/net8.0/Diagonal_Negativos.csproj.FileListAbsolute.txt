@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\bin\Debug\net8.0\Diagonal_Negativos.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\bin\Debug\net8.0\Diagonal_Negativos.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\bin\Debug\net8.0\Diagonal_Negativos.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\bin\Debug\net8.0\Diagonal_Negativos.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\bin\Debug\net8.0\Diagonal_Negativos.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\refint\Diagonal_Negativos.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\Diagonal_Negativos.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Diagonal_Negativos\Diagonal_Negativos\obj\Debug\net8.0\ref\Diagonal_Negativos.dll
