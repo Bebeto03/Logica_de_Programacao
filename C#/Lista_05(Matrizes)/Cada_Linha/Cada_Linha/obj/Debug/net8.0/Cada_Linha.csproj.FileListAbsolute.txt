@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\bin\Debug\net8.0\Cada_Linha.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\bin\Debug\net8.0\Cada_Linha.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\bin\Debug\net8.0\Cada_Linha.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\bin\Debug\net8.0\Cada_Linha.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\bin\Debug\net8.0\Cada_Linha.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\obj\Debug\net8.0\Cada_Linha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\obj\Debug\net8.0\Cada_Linha.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\obj\Debug\net8.0\Cada_Linha.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\obj\Debug\net8.0\Cada_Linha.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\obj\Debug\net8.0\Cada_Linha.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\obj\Debug\net8.0\Cada_Linha.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\obj\Debug\net8.0\refint\Cada_Linha.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\obj\Debug\net8.0\Cada_Linha.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\obj\Debug\net8.0\Cada_Linha.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Cada_Linha\Cada_Linha\obj\Debug\net8.0\ref\Cada_Linha.dll
