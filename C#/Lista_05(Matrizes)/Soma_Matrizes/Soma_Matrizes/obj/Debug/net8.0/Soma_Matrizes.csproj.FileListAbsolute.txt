@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\bin\Debug\net8.0\Soma_Matrizes.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\bin\Debug\net8.0\Soma_Matrizes.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\bin\Debug\net8.0\Soma_Matrizes.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\bin\Debug\net8.0\Soma_Matrizes.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\bin\Debug\net8.0\Soma_Matrizes.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\obj\Debug\net8.0\Soma_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\obj\Debug\net8.0\Soma_Matrizes.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\obj\Debug\net8.0\Soma_Matrizes.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\obj\Debug\net8.0\Soma_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\obj\Debug\net8.0\Soma_Matrizes.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\obj\Debug\net8.0\Soma_Matrizes.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\obj\Debug\net8.0\refint\Soma_Matrizes.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\obj\Debug\net8.0\Soma_Matrizes.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\obj\Debug\net8.0\Soma_Matrizes.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Matrizes\Soma_Matrizes\obj\Debug\net8.0\ref\Soma_Matrizes.dll
