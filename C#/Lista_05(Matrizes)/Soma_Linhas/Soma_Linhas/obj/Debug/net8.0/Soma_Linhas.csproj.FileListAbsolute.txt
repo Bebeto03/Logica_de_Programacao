@@ -1,0 +1,15 @@
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\bin\Debug\net8.0\Soma_Linhas.exe
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\bin\Debug\net8.0\Soma_Linhas.deps.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\bin\Debug\net8.0\Soma_Linhas.runtimeconfig.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\bin\Debug\net8.0\Soma_Linhas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\bin\Debug\net8.0\Soma_Linhas.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\obj\Debug\net8.0\Soma_Linhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\obj\Debug\net8.0\Soma_Linhas.AssemblyInfoInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\obj\Debug\net8.0\Soma_Linhas.AssemblyInfo.cs
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\obj\Debug\net8.0\Soma_Linhas.csproj.CoreCompileInputs.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\obj\Debug\net8.0\Soma_Linhas.sourcelink.json
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\obj\Debug\net8.0\Soma_Linhas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\obj\Debug\net8.0\refint\Soma_Linhas.dll
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\obj\Debug\net8.0\Soma_Linhas.pdb
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\obj\Debug\net8.0\Soma_Linhas.genruntimeconfig.cache
+C:\Users\rnxro\OneDrive\Workspaces\ws-vscode\Logica_de_Programacao\C#\Lista_05(Matrizes)\Soma_Linhas\Soma_Linhas\obj\Debug\net8.0\ref\Soma_Linhas.dll
